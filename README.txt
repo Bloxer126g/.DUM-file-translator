@@ -10,3 +10,5 @@ Follow the python setup wizard.
 Open the translator with python.
 
 Translate!
+
+(note that somethimes the menu appears behind the text box, if so, just drag it away)
